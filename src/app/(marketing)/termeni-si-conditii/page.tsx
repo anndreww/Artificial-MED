@@ -17,8 +17,8 @@ const TermeniConditii: React.FC = () => {
                 În acest document:
             </p>
             <ul className="list-disc pl-6 text-gray-700 mb-6">
-                <li><strong>"Platforma"</strong> se referă la site-ul Artificial MED și aplicațiile aferente.</li>
-                <li><strong>"Utilizator"</strong> înseamnă orice persoană care folosește platforma Artificial MED.</li>
+                <li><strong>&quot;Platforma&quot;</strong> se referă la site-ul Artificial MED și aplicațiile aferente.</li>
+                <li><strong>&quot;Utilizator&quot;</strong> înseamnă orice persoană care folosește platforma Artificial MED.</li>
             </ul>
 
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">3. Scopul platformei</h2>
@@ -55,7 +55,7 @@ const TermeniConditii: React.FC = () => {
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">8. Contact</h2>
             <p className="text-gray-700">
                 Pentru orice întrebări sau nelămuriri, ne puteți contacta la adresa de e-mail: 
-                <a href="mailto:contact@artificialmed.ro" className="text-blue-500 hover:underline"> contact@artificialmed.com</a>.
+                <a href="mailto:contact@artificialmed.ro" className="text-blue-500 hover:underline">contact@artificialmed.ro</a>.
             </p>
         </div>
     );

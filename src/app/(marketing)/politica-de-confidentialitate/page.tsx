@@ -58,7 +58,7 @@ const PoliticaConfidentialitate: React.FC = () => {
             <h2 className="text-2xl font-semibold text-gray-800 mb-4">7. Contact</h2>
             <p className="text-gray-700">
                 Pentru orice întrebări legate de această Politică de Confidențialitate, vă rugăm să ne contactați la adresa de e-mail: 
-                <a href="mailto:contact@artificialmed.ro" className="text-blue-500 hover:underline"> contact@artificialmed.com</a>.
+                <a href="mailto:contact@artificialmed.ro" className="text-blue-500 hover:underline"> contact@artificialmed.ro</a>.
             </p>
         </div>
     );
