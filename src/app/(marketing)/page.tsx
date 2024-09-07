@@ -401,7 +401,7 @@ const HomePage = () => {
             </Container>
             <Container className="flex items-center justify-center pt-10 md:py-20">
 
-            <TweetCard id="1684558554353782784" className="shadow-2xl" />
+            <TweetCard id="1832378056431849493" className="shadow-2xl" />
 
             </Container>
             </Wrapper>
